@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.viewDidLoad() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "logos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.extract_json_data(String, tipo : String) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nombres">
+            </PersistentString>
+            <PersistentString
+               value = "operacionArray">
+            </PersistentString>
+            <PersistentString
+               value = "desarrolloArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.collectionView(UICollectionView, cellForItemAtIndexPath : NSIndexPath) -&gt; UICollectionViewCell:ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.imageview.image">
+            </PersistentString>
+            <PersistentString
+               value = "logos[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.extract_json_data_imagen() -&gt; ():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.obtenerActualizacion() -&gt; Bool:ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.prepareForSegue(UIStoryboardSegue, sender : AnyObject?) -&gt; ():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "avanceVideo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.collectionView(UICollectionView, viewForSupplementaryElementOfKind : String, atIndexPath : NSIndexPath) -&gt; UICollectionReusableView:ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sections[indexPath.section]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.prepareForSegue(UIStoryboardSegue, sender : AnyObject?) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "logos">
+            </PersistentString>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.prepareForSegue(UIStoryboardSegue!, sender : AnyObject?) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "logos[indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
