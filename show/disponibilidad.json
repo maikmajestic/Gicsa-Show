@@ -1,0 +1,896 @@
+[
+  {
+    "idDisponibilidadOff": 191,
+    "orderShow": 14,
+    "nivel": "ML-Motor Looby",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fArcosBosquesML_/f",
+    "url_impresion": "ARCOS BOSQUES_ML-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 192,
+    "orderShow": 14,
+    "nivel": "N1-Nivel 1",
+    "orden_mostrar": 3,
+    "url_mapa": "/Operacion/fArcosBosques_1N/f",
+    "url_impresion": "ARCOS BOSQUES_1N-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 193,
+    "orderShow": 14,
+    "nivel": "PB-Planta Baja",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/fArcosBosques_PB/f",
+    "url_impresion": "ARCOS BOSQUES_PB-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 194,
+    "orderShow": 1,
+    "nivel": "PB- Planta Baja",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/BUENAVISTA_PB/",
+    "url_impresion": "BUENAVISTA_PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 195,
+    "orderShow": 1,
+    "nivel": "PB-Acceso",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/BUENAVISTA ACCESO/",
+    "url_impresion": "BUENAVISTA ACCESO.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 196,
+    "orderShow": 1,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 3,
+    "url_mapa": "/Operacion/BUENAVISTA_N1/",
+    "url_impresion": "BUENAVISTA_N1.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 197,
+    "orderShow": 1,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 4,
+    "url_mapa": "/Operacion/BUENAVISTA_N2/",
+    "url_impresion": "BUENAVISTA_N2.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 198,
+    "orderShow": 15,
+    "nivel": "PA - Planta Alta",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/P LANGOSTA PA/",
+    "url_impresion": "P LANGOSTA PA-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 199,
+    "orderShow": 15,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/P LANGOSTA PB/",
+    "url_impresion": "P LANGOSTA PB-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 200,
+    "orderShow": 21,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/CAPITAL/0REFORMA_PB/f",
+    "url_impresion": "CAPITAL REFORMA_PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 201,
+    "orderShow": 21,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/CAPITAL/0REFORMA_N1/f",
+    "url_impresion": "CAPITAL REFORMA_N1.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 202,
+    "orderShow": 16,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/fFORUM/0BY/0THE/0SEA_1N/f",
+    "url_impresion": "FORUM BY THE SEA_1N-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 203,
+    "orderShow": 16,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 3,
+    "url_mapa": "/Operacion/fFORUM/0BY/0THE/0SEA_2N/f",
+    "url_impresion": "FORUM BY THE SEA_2N-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 204,
+    "orderShow": 16,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fFORUM/0BY/0THE/0SEA_PB/f",
+    "url_impresion": "FORUM BY THE SEA_PB-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 205,
+    "orderShow": 20,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/INTERLOMAS_PB/",
+    "url_impresion": "INTERLOMAS_PB-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 206,
+    "orderShow": 20,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/INTERLOMAS_1N/",
+    "url_impresion": "INTERLOMAS_1N-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 207,
+    "orderShow": 20,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 3,
+    "url_mapa": "/Operacion/INTERLOMAS_2N/",
+    "url_impresion": "INTERLOMAS_2N-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 208,
+    "orderShow": 20,
+    "nivel": "E1 - Estacionamiento",
+    "orden_mostrar": 4,
+    "url_mapa": "/Operacion/INTERLOMAS_E1/",
+    "url_impresion": "INTERLOMAS_E1-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 209,
+    "orderShow": 20,
+    "nivel": "E2 - Estacionamiento",
+    "orden_mostrar": 5,
+    "url_mapa": "/Operacion/INTERLOMAS_E2/",
+    "url_impresion": "INTERLOMAS_E2-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 210,
+    "orderShow": 21,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 3,
+    "url_mapa": "/Operacion/CAPITAL/0REFORMA_N2/f",
+    "url_impresion": "CAPITAL REFORMA_N2.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 211,
+    "orderShow": 12,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/CENTRO/0MAYA/",
+    "url_impresion": "CENTRO MAYA-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 212,
+    "orderShow": 18,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fCITY/0WALK/f",
+    "url_impresion": "CITY WALK-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 213,
+    "orderShow": 19,
+    "nivel": "PB- Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fMASARIK/0111/f",
+    "url_impresion": "MASARIK 111-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 214,
+    "orderShow": 13,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fOUTLET/0CANCUN/f",
+    "url_impresion": "OUTLET CANCUN-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 215,
+    "orderShow": 2,
+    "nivel": "PB- Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fOUTLET/0LERMA/f",
+    "url_impresion": "OUTLET LERMA-CONJUNTO.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 216,
+    "orderShow": 66,
+    "nivel": "PB-Planta Baja",
+    "orden_mostrar": 2,
+    "url_mapa": "/Desarrollo/fMIDTOWN/0JALISCO/0PB/f",
+    "url_impresion": "MIDTOWN JALISCO_PB-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 217,
+    "orderShow": 8,
+    "nivel": "PB-Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fOUTLET/0MONTERREY/f",
+    "url_impresion": "OUTLET MONTERREY.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 218,
+    "orderShow": 7,
+    "nivel": "PB-Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fOUTLET/0GUADALAJARA/f",
+    "url_impresion": "OUTLET GUADALAJARA.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 219,
+    "orderShow": 4,
+    "nivel": "PB-Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fCOATZACOALCOS_PB/f",
+    "url_impresion": "COATZACOALCOS_PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 220,
+    "orderShow": 4,
+    "nivel": "PA-Planta Alta",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/fCOATZACOALCOS_PA/f",
+    "url_impresion": "COATZACOALCOS_PA.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 221,
+    "orderShow": 66,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 3,
+    "url_mapa": "/Desarrollo/fMIDTOWN/0JALISCO/01N/f",
+    "url_impresion": "MIDTOWN JALISCO_1N-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 222,
+    "orderShow": 66,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 4,
+    "url_mapa": "/Desarrollo/fMIDTOWN/0JALISCO/02N/f",
+    "url_impresion": "MIDTOWN JALISCO_2N-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 223,
+    "orderShow": 3,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fISLA/0CANCUN/0PB/f",
+    "url_impresion": "ISLA CANCUN PB-CONJUNTO.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 224,
+    "orderShow": 3,
+    "nivel": "PA- Planta Alta",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/fISLA/0CANCUN/0PA/f",
+    "url_impresion": "ISLA CANCUN PA-CONJUNTO.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 225,
+    "orderShow": 10,
+    "nivel": "PB-Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fCULIACAN/0PB/f",
+    "url_impresion": "CULIACAN PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 226,
+    "orderShow": 10,
+    "nivel": "PA-Planta Alta",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/fCULIACAN/0PA/f",
+    "url_impresion": "CULIACAN PA.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 227,
+    "orderShow": 68,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Desarrollo/fLA/0ISLA/0PUERTO/0VALLARTA/0PB/f",
+    "url_impresion": "LA ISLA PUERTO VALLARTA PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 228,
+    "orderShow": 68,
+    "nivel": "PA- Planta Alta",
+    "orden_mostrar": 2,
+    "url_mapa": "/Desarrollo/fLA/0ISLA/0PUERTO/0VALLARTA/0PA/f",
+    "url_impresion": "LA ISLA PUERTO VALLARTA PA.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 229,
+    "orderShow": 73,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Desarrollo/fOUTLET/0RIVIERA/0MAYA/f",
+    "url_impresion": "OUTLET RIVIERA MAYA-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 230,
+    "orderShow": 9,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fTEPIC_PB/f",
+    "url_impresion": "TEPIC_PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 231,
+    "orderShow": 9,
+    "nivel": "PA -Planta Alta",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/fTEPIC_PA/f",
+    "url_impresion": "TEPIC_PA.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 232,
+    "orderShow": 74,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Desarrollo/fISLA/0CANCUN/0AMP_PB/f",
+    "url_impresion": "ISLA CANCUN PB_AMPL-II.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 233,
+    "orderShow": 74,
+    "nivel": "PA - Planta Alta",
+    "orden_mostrar": 2,
+    "url_mapa": "/Desarrollo/fISLA/0CANCUN/0AMP_PA/f",
+    "url_impresion": "ISLA CANCUN PA_AMPL-II.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 234,
+    "orderShow": 69,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 2,
+    "url_mapa": "/Desarrollo/fPASEO/0XOCHIMILCO/01N/f",
+    "url_impresion": "PASEO XOCHIMILCO N1.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 235,
+    "orderShow": 69,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 3,
+    "url_mapa": "/Desarrollo/fPASEO/0XOCHIMILCO/02N/f",
+    "url_impresion": "PASEO XOCHIMILCO N2.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 236,
+    "orderShow": 69,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Desarrollo/fPASEO/0XOCHIMILCO/0PB/f",
+    "url_impresion": "PASEO XOCHIMILCO PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 237,
+    "orderShow": 17,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fZENTRO/0PLAZA_PB/f",
+    "url_impresion": "ZENTRO PLAZA_PB-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 238,
+    "orderShow": 17,
+    "nivel": "PA - Planta Alta",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/fZENTRO/0PLAZA_PA/f",
+    "url_impresion": "ZENTRO PLAZA_PA-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 239,
+    "orderShow": 75,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/fPENINSULA/0VALLARTA_PB/f",
+    "url_impresion": "PENINSULA VALLARTA PB (Plaza).pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 240,
+    "orderShow": 75,
+    "nivel": "PA - Planta Alta",
+    "orden_mostrar": 3,
+    "url_mapa": "/Operacion/fPENINSULA/0VALLARTA_PA/f",
+    "url_impresion": "PENINSULA VALLARTA N1 (Terraza).pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 241,
+    "orderShow": 75,
+    "nivel": "ST - Sotano",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fPENINSULA/0VALLARTA_SOT/f",
+    "url_impresion": "PENINSULA VALLARTA SOT (Rio).pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 242,
+    "orderShow": 76,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fGALERIAS/0GUADALAJARA/0PB/f",
+    "url_impresion": "GALERIAS GUADALAJARA PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 243,
+    "orderShow": 76,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/fGALERIAS/0GUADALAJARA/0N1/f",
+    "url_impresion": "GALERIAS GUADALAJARA N1.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 244,
+    "orderShow": 76,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 3,
+    "url_mapa": "/Operacion/fGALERIAS/0GUADALAJARA/0N2/f",
+    "url_impresion": "GALERIAS GUADALAJARA N2.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 245,
+    "orderShow": 11,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fL_GUADALUPE_N/0COMERCIAL/f",
+    "url_impresion": "L_GUADALUPE_N COMERCIAL.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 246,
+    "orderShow": 11,
+    "nivel": "E1 - Estacionamiento",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/fL_GUADALUPE_N/0EST/f",
+    "url_impresion": "L_GUADALUPE_N EST.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 247,
+    "orderShow": 67,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Desarrollo/fPLAYA/0DEL/0CARMEN/0PB/f",
+    "url_impresion": "PLAYA DEL CARMEN.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 248,
+    "orderShow": 6,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fTLAQUEPAQUE_PB/f",
+    "url_impresion": "TLAQUEPAQUE_PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 249,
+    "orderShow": 6,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/fTLAQUEPAQUE_N1/f",
+    "url_impresion": "TLAQUEPAQUE_N1.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 250,
+    "orderShow": 6,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 3,
+    "url_mapa": "/Operacion/fTLAQUEPAQUE_N2/f",
+    "url_impresion": "TLAQUEPAQUE_N2.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 251,
+    "orderShow": 5,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Operacion/fISLA/0ACAPULCO_PB/f",
+    "url_impresion": "ISLA ACAPULCO_PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 252,
+    "orderShow": 5,
+    "nivel": "PA - Planta Alta",
+    "orden_mostrar": 2,
+    "url_mapa": "/Operacion/fISLA/0ACAPULCO_PA/f",
+    "url_impresion": "ISLA ACAPULCO_PA.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 253,
+    "orderShow": 65,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Desarrollo/fINTERLOMAS_PB_AMPLI/f",
+    "url_impresion": "INTERLOMAS AMPL_PB-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 254,
+    "orderShow": 65,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 2,
+    "url_mapa": "/Desarrollo/fINTERLOMAS_1N_AMPLI/f",
+    "url_impresion": "INTERLOMAS AMPL_N1-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 255,
+    "orderShow": 65,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 3,
+    "url_mapa": "/Desarrollo/fINTERLOMAS_2N_AMPLI/f",
+    "url_impresion": "INTERLOMAS AMPL_N2-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 256,
+    "orderShow": 66,
+    "nivel": "Sotano",
+    "orden_mostrar": 1,
+    "url_mapa": "/Desarrollo/fMIDTOWN/0JALISCO/0SOT2/f",
+    "url_impresion": "MIDTOWN JALISCO_SOT-2-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 257,
+    "orderShow": 66,
+    "nivel": "N3- Nivel3",
+    "orden_mostrar": 5,
+    "url_mapa": "/Desarrollo/fMIDTOWN/0JALISCO/03N/f",
+    "url_impresion": "MIDTOWN JALISCO_3N-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 258,
+    "orderShow": 78,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 2,
+    "url_mapa": "/Desarrollo/fPASEO/0CUERNAVACA_PB/f",
+    "url_impresion": "PASEO CUERNAVACA PB.pdf",
+    "deleted": false
+  },
+
+ {
+ "idDisponibilidadOff": 260,
+ "orderShow": 80,
+ "nivel": "PB - Planta Baja",
+ "orden_mostrar": 1,
+ "url_mapa": "/Desarrollo/fISLA/0MERIDA/0PB/f",
+ "url_impresion": "LA ISLA MERIDA_PB-LEASING.pdf",
+ "deleted": false
+ },
+  {
+    "idDisponibilidadOff": 259,
+    "orderShow": 80,
+    "nivel": "PA - Planta Alta",
+    "orden_mostrar": 2,
+    "url_mapa": "/Desarrollo/fISLA/0MERIDA/0PA/f",
+    "url_impresion": "LA ISLA MERIDA_PA-LEASING.pdf",
+    "deleted": false
+  },
+ {
+ "idDisponibilidadOff": 263,
+ "orderShow": 80,
+ "nivel": "Sotano",
+ "orden_mostrar": 3,
+ "url_mapa": "/Desarrollo/fISLA/0MERIDA/0SOT/f",
+ "url_impresion": "LA ISLA MERIDA_SOT-LEASING.pdf",
+ "deleted": false
+ },
+  {
+    "idDisponibilidadOff": 261,
+    "orderShow": 65,
+    "nivel": "N3 - Nivel 3",
+    "orden_mostrar": 4,
+    "url_mapa": "/Desarrollo/fINTERLOMAS_3N_AMPLI/f",
+    "url_impresion": "INTERLOMAS AMPL_N3-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 262,
+    "orderShow": 65,
+    "nivel": "N2 - Nivel 2 MZ",
+    "orden_mostrar": 5,
+    "url_mapa": "/Desarrollo/fINTERLOMAS_2N_MZ_AMPLI/f",
+    "url_impresion": "INTERLOMAS AMPL_N2 MZ-LEASING.pdf",
+    "deleted": false
+  },
+
+  {
+    "idDisponibilidadOff": 264,
+    "orderShow": 82,
+    "nivel": "PC PB - Planta Baja",
+    "orden_mostrar": 2,
+    "url_mapa": "/Desarrollo/fPC/0METEPEC/0PB/f",
+    "url_impresion": "PASEO METEPEC_POWER CENTER PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 265,
+    "orderShow": 82,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 3,
+    "url_mapa": "/Desarrollo/fPASEO/0METEPEC/0PB/f",
+    "url_impresion": "PASEO METEPEC-LEASING-PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 266,
+    "orderShow": 82,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 4,
+    "url_mapa": "/Desarrollo/fPASEO/0METEPEC/01N/f",
+    "url_impresion": "PASEO METEPEC-LEASING-1N.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 267,
+    "orderShow": 82,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 5,
+    "url_mapa": "/Desarrollo/fPASEO/0METEPEC/02N/f",
+    "url_impresion": "PASEO METEPEC-LEASING-2N.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 268,
+    "orderShow": 82,
+    "nivel": "N3 - Nivel 3",
+    "orden_mostrar": 6,
+    "url_mapa": "/Desarrollo/fPASEO/0METEPEC/03N/f",
+    "url_impresion": "PASEO METEPEC-LEASING-3N.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 269,
+    "orderShow": 83,
+    "nivel": "PA - Planta Alta",
+    "orden_mostrar": 2,
+    "url_mapa": "/Desarrollo/fPASEO/0QUERETARO_PA/f",
+    "url_impresion": "PASEO QUERETARO PA.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 270,
+    "orderShow": 83,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Desarrollo/fPASEO/0QUERETARO_PB/f",
+    "url_impresion": "PASEO QUERETARO PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 271,
+    "orderShow": 83,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 3,
+    "url_mapa": "/Desarrollo/fPASEO/0QUERETARO_N2/f",
+    "url_impresion": "PASEO QUERETARO N2.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 272,
+    "orderShow": 86,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 1,
+    "url_mapa": "/Desarrollo/fOUTLET/0NORTE/01N/f",
+    "url_impresion": "OUTLET NORTE-N1.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 273,
+    "orderShow": 86,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 2,
+    "url_mapa": "/Desarrollo/fOUTLET/0NORTE/0PB/f",
+    "url_impresion": "OUTLET NORTE-PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 274,
+    "orderShow": 86,
+    "nivel": "Sotano",
+    "orden_mostrar": 3,
+    "url_mapa": "/Desarrollo/fOUTLET/0NORTE/0SOT/f",
+    "url_impresion": "OUTLET NORTE-SOT.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 275,
+    "orderShow": 87,
+    "nivel": "Sotano",
+    "orden_mostrar": 4,
+    "url_mapa": "/Desarrollo/fOUTLET/0SUR/0SOT/f",
+    "url_impresion": "OUTLET SUR-SOT.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 276,
+    "orderShow": 87,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Desarrollo/fOUTLET/0SUR/0PB/f",
+    "url_impresion": "OUTLET SUR-PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 277,
+    "orderShow": 87,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 3,
+    "url_mapa": "/Desarrollo/fOUTLET/0SUR/02N/f",
+    "url_impresion": "OUTLET SUR-N2.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 278,
+    "orderShow": 87,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 2,
+    "url_mapa": "/Desarrollo/fOUTLET/0SUR/01N/f",
+    "url_impresion": "OUTLET SUR-N1.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 279,
+    "orderShow": 88,
+    "nivel": "PB - Planta Baja",
+    "orden_mostrar": 1,
+    "url_mapa": "/Desarrollo/PASEO COAPA PB/",
+    "url_impresion": "PASEO COAPA-LEASING PB.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 280,
+    "orderShow": 88,
+    "nivel": "N1 - Nivel 1",
+    "orden_mostrar": 2,
+    "url_mapa": "/Desarrollo/PASEO COAPA 1N/",
+    "url_impresion": "PASEO COAPA-LEASING N1.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 281,
+    "orderShow": 88,
+    "nivel": "N2 - Nivel 2",
+    "orden_mostrar": 3,
+    "url_mapa": "/Desarrollo/PASEO COAPA 2N/",
+    "url_impresion": "PASEO COAPA-LEASING N2.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 282,
+    "orderShow": 88,
+    "nivel": "N3 - Nivel 3",
+    "orden_mostrar": 4,
+    "url_mapa": "/Desarrollo/PASEO COAPA 3N/",
+    "url_impresion": "PASEO COAPA-LEASING N3.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 283,
+    "orderShow": 88,
+    "nivel": "Sotano",
+    "orden_mostrar": 5,
+    "url_mapa": "/Desarrollo/PASEO COAPA SOT/",
+    "url_impresion": "PASEO COAPA-LEASING S1.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 284,
+    "orderShow": 80,
+    "nivel": "AZ - Azotea",
+    "orden_mostrar": 4,
+    "url_mapa": "/Desarrollo/fISLA/0MERIDA/0AZT/f",
+    "url_impresion": "LA ISLA MERIDA_AZ-LEASING.pdf",
+    "deleted": false
+  },
+  {
+    "idDisponibilidadOff": 285,
+    "orderShow": 83,
+    "nivel": "Sotano",
+    "orden_mostrar": 4,
+    "url_mapa": "/Desarrollo/fPASEO/0QUERETARO_SOT/f",
+    "url_impresion": "PASEO QUERETARO SOT.pdf",
+    "deleted": false
+  },
+ {
+ "idDisponibilidadOff": 286,
+ "orderShow": 120,
+ "nivel": "Sotano",
+ "orden_mostrar": 1,
+ "url_mapa": "/Desarrollo/fPASEO/0QUERETARO_SOT/f",
+ "url_impresion": "EXPLANDA PUEBLA.pdf",
+ "deleted": false
+ },
+ {
+ "idDisponibilidadOff": 287,
+ "orderShow": 121,
+ "nivel": "Sotano",
+ "orden_mostrar": 1,
+ "url_mapa": "/Desarrollo/fPASEO/0QUERETARO_SOT/f",
+ "url_impresion": "EXPLANADA LEON.pdf",
+ "deleted": false
+ },
+ {
+ "idDisponibilidadOff": 288,
+ "orderShow": 124,
+ "nivel": "Sotano",
+ "orden_mostrar": 1,
+ "url_mapa": "/Desarrollo/fPASEO/0QUERETARO_SOT/f",
+ "url_impresion": "EXPLANADA QUERETARO.pdf",
+ "deleted": false
+ }
+ ,
+ {
+ "idDisponibilidadOff": 289,
+ "orderShow": 123,
+ "nivel": "Sotano",
+ "orden_mostrar": 1,
+ "url_mapa": "/Desarrollo/fPASEO/0QUERETARO_SOT/f",
+ "url_impresion": "EXPLANADA PACHUCA.pdf",
+ "deleted": false
+ }
+]
