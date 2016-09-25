@@ -20,6 +20,7 @@ class DetailViewController: UIViewController {
     
     //MENU BOTONES
     @IBOutlet weak var btnUbicar: UIButton!;@IBOutlet weak var lblUbicar: UILabel!
+    @IBOutlet weak var btnSocios: UIButton!
     @IBOutlet weak var btnGaleria: UIButton!;@IBOutlet weak var lblGaleria: UILabel!
     @IBOutlet weak var btnDisponibilidad: UIButton!;@IBOutlet weak var lblDisponibilidad: UILabel!
     @IBOutlet weak var btnRecorrido: UIButton!;@IBOutlet weak var lblRecorrido: UILabel!
@@ -27,6 +28,8 @@ class DetailViewController: UIViewController {
     @IBOutlet weak var btnAvance: UIButton!;@IBOutlet weak var lblAvance: UILabel!
     
     //BARRA INFORMACION
+    @IBOutlet weak var lblSocios: UILabel!
+    @IBOutlet weak var btSocios: UIButton!
     @IBOutlet weak var imgArea: UIImageView!
     @IBOutlet weak var lblArea: UILabel!
     @IBOutlet weak var imgApertura: UIImageView!
@@ -53,13 +56,15 @@ class DetailViewController: UIViewController {
     var avanceVideoUrl = ""
     var recorridoVideoUrl = ""
     var presentacionVideoUrl = ""
+    var socios = UIImage()
+    var ss = UIImage()
+    var socioc = ""
     
     var videoURL: NSURL!
     var area = ""
     var estacionamiento = 0
     var apertura = ""
     var puerta = 0
-    
     
     //GALERIA
     
@@ -108,6 +113,7 @@ class DetailViewController: UIViewController {
         btnDisponibilidad.hidden=true;lblDisponibilidad.hidden=true
         btnRecorrido.hidden=true;lblRecorrido.hidden=true
         btnVideo.hidden=true;lblVideo.hidden=true
+        btSocios.hidden=true;lblSocios.hidden=true
         btnAvance.hidden=true;lblAvance.hidden=true
         
         //OCULTAR INFORMACION LABEL
@@ -128,7 +134,8 @@ class DetailViewController: UIViewController {
             btnGaleria.hidden=false;lblGaleria.hidden=false
             btnDisponibilidad.hidden=false;lblDisponibilidad.hidden=false
             btnRecorrido.hidden=false;lblRecorrido.hidden=false
-            btnVideo.hidden=false;lblVideo.hidden=false
+            btnVideo.hidden=true;lblVideo.hidden=true
+            btSocios.hidden=false;lblSocios.hidden=false
             btnAvance.hidden=false;lblAvance.hidden=false
             if(avanceVideoUrl == "" && avanceVideo == ""){
                 btnAvance.hidden = true
@@ -142,6 +149,10 @@ class DetailViewController: UIViewController {
                 btnVideo.hidden = true
                 lblVideo.hidden = true
             }
+            if(idProyecto != "77" || idProyecto != "74" || idProyecto != "79" || idProyecto != "68" || idProyecto != "114" || idProyecto != "91" || idProyecto != "78" || idProyecto != "81" || idProyecto != "117"){
+                btSocios.hidden = true
+                lblSocios.hidden = true
+            }
             if(imgGaleria.count == 0){
                 btnGaleria.hidden = true
                 lblGaleria.hidden = true
@@ -152,7 +163,6 @@ class DetailViewController: UIViewController {
             }
            
         }
-        
         //MOSTRAR INFORMACION
         
         if(area != ""){
@@ -226,6 +236,15 @@ class DetailViewController: UIViewController {
             
             self.videoURL = NSBundle.mainBundle().URLForResource(recorridoVideo, withExtension: "mp4")!
             vc.player = AVPlayer(URL: self.videoURL)
+            
+        }
+        
+        if segue.identifier == "sociosc" {
+            
+            // get destination view controller
+            let vc = segue.destinationViewController as! SociosViewController
+            vc.iu = "jijij"
+            vc.imSociosa = socios
             
         }
         

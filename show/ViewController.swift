@@ -44,6 +44,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     var nombres = [String]()
     var descripciones = [String]()
     var logos = [String]()
+    var socios = [String]()
     var fondos = [String]()
     var mapas = [String]()
     var coordenadas = [String]()
@@ -228,7 +229,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
                 vc.mapa = self.mapas[index]
                 vc.coordenada = self.coordenadas[index]
                 vc.url = self.dispobilidadUrls[index]
-            
+                vc.socios = UIImage(named:socios[index])!
                 
                 vc.operacion = self.operaciones[index]
                 vc.avanceVideo = self.avanceVideos[index]
@@ -276,6 +277,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
                     let cajones_estacionamiento = proyecto ["cajones_estacionamiento"] as? Int! ?? 0,
                     let apertura = proyecto["apertura"] as? String! ?? "",
                     let fondo = proyecto["fondo"] as? String! ?? "",
+                    let socio = proyecto["socios"] as? String! ?? "",
                     
                     let logo = proyecto ["logo"] as? String! ?? "",
                     //let sh_acerca_de = proyecto ["sh_acerca_de"] as? String! ?? "",
@@ -347,6 +349,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
                    // descripciones.append(sh_acerca_de)
                     logos.append(logoF)
                     fondos.append(fondoF)
+                    socios.append(socio)
                     mapas.append(mapa)
                     coordenadas.append(coordenada)
                     dispobilidadUrls.append(disponibilidadUrl)
