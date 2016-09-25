@@ -54,7 +54,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     var avanceVideos = [String]()
     var recorridoVideos = [String]()
     var videos = [String]()
-    var estacionamientos = [Int]()
+    var estacionamientos = [String]()
     var puertas = [Int]()
     var glas = [String]()
     var aperturas = [String]()
@@ -274,7 +274,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
                     
                     let gla = proyecto["gla"] as? String! ?? "",
                     let puerta = proyecto["puertas"] as? Int! ?? 0,
-                    let cajones_estacionamiento = proyecto ["cajones_estacionamiento"] as? Int! ?? 0,
+                    let cajones_estacionamiento = proyecto ["cajones_estacionamiento"] as? String! ?? "",
                     let apertura = proyecto["apertura"] as? String! ?? "",
                     let fondo = proyecto["fondo"] as? String! ?? "",
                     let socio = proyecto["socios"] as? String! ?? "",

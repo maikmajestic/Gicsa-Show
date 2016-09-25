@@ -62,7 +62,7 @@ class DetailViewController: UIViewController {
     
     var videoURL: NSURL!
     var area = ""
-    var estacionamiento = 0
+    var estacionamiento = ""
     var apertura = ""
     var puerta = 0
     
@@ -175,10 +175,10 @@ class DetailViewController: UIViewController {
             lblApertura.hidden=false
             lblApertura.text = "APERTURA \n" + apertura
         }
-        if(estacionamiento != 0){
+        if(estacionamiento != ""){
             imgEstacionamiento.hidden=false
             lblEstacionamiento.hidden=false
-            lblEstacionamiento.text = "ESTACIONAMIENTO \n" + String(estacionamiento)
+            lblEstacionamiento.text = "ESTACIONAMIENTO \n" + estacionamiento
         }
         if(puerta != 0){
             imgPuertas.hidden=false
@@ -243,7 +243,6 @@ class DetailViewController: UIViewController {
             
             // get destination view controller
             let vc = segue.destinationViewController as! SociosViewController
-            vc.iu = "jijij"
             vc.imSociosa = socios
             
         }
